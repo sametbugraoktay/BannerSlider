@@ -9,4 +9,4 @@ Swift 5+
 XCode 11+
 
 
-![](Banner Slider.gif)
+![](BannerSlider.gif)
