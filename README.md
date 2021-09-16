@@ -1,4 +1,3 @@
-# SametBugraOktay_Hafta3
 # BannerSlider
 
 Patika.dev & IBTech iOS Bootcamp Week 3 Homework
